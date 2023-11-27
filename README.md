@@ -14,6 +14,8 @@ Fasi
 Suggerimenti/Indicazioni:
 Sì, lo sappiamo che esiste la funzione includes() ma noi non la vogliamo utilizzare per cercare nel frigorifero.
 
+COMPLETO
+
 
 2. La coda dell'Array
 Cartella: array_tail
